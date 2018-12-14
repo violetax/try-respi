@@ -4,4 +4,4 @@ Just another short introduction to the Raspberry Pi.
 
 <http://imcaspar.github.io/try-respi>
 
-![ScreenShot](screenshot.png)
+![ScreenShot](screenshot.png)# copy-try
